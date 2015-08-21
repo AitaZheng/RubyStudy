@@ -1,0 +1,9 @@
+<li class="list-group-item">
+    <dl>
+        <dt><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></dt>
+        <dd>{{ post.description }}</dd>
+        <dd><span class="small pull-right"> <span class="text-muted">author:</span> {{ site.author }} </span> <br/>
+        </dd>
+        <dd><span class="small pull-right text-muted">{{ post.date | date: '%Y-%m-%d' }} </span></dd>
+    </dl>
+</li>

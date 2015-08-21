@@ -1,0 +1,20 @@
+- name: 读书笔记
+  path: /b_book
+
+- name: 技术核心笔记
+  path: /b_core
+
+- name: 项目问题总结
+  path: /b_project
+
+- name: 创业中那点事
+  path: /b_bs
+
+- name: 技术分享及总结
+  path: /b_share
+
+- name: 个人随笔
+  path: /b_personal
+
+- name: 关于
+  path: /b_about

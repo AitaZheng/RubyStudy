@@ -1,0 +1,12 @@
+---
+ title: 个人随笔
+ layout: default
+---
+　　<h2>{{ page.title }}</h2>
+　　<p>最新文章</p>
+　　
+<ul class="list-group">
+    {% for post in site.tags.personal %}　　　　　
+    {% include post_content.html %}
+    {% endfor %}
+</ul>
