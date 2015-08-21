@@ -1,8 +1,13 @@
-<html>
-<head>
-<title>郑丽娜的个人学习空间</title>
-</head>
-<body style="background-color:black;height:200px;color:white;font-size:60px">
-Stay Hungry, Stay Foolish! 
-</body>
-</html>
+---
+ title: 文章列表
+ layout: default
+---
+　　<h2>{{ page.title }}</h2>
+　　<p>所有文章</p>
+　　
+<dl>
+{% for post in site.posts %}　　　　　
+    {% include post_content.html %}
+{% endfor %}
+</dl>
+
