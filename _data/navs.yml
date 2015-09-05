@@ -7,10 +7,7 @@
 - name: 项目问题总结
   path: /b_project
 
-- name: 创业中那点事
-  path: /b_bs
-
-- name: 技术分享及总结
+- name: 技术总结及分享
   path: /b_share
 
 - name: 个人随笔
