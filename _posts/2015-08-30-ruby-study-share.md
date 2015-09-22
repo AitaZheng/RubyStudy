@@ -1,12 +1,13 @@
 ---
 layout: detail
-title: ruby study share
+title: Metaprogramming Ruby Study
 tags: [share,core]
 category: share
 ---
 
-##ruby base study
+##Foreword
 
-content
+
+
 
 
