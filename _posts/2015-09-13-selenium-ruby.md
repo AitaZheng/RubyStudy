@@ -45,37 +45,42 @@
   在开始->所有程序->Ruby 1.9.3-p551找到Start Command Prompt with Ruby，单击运行命令行
   
   输入如下命令
-  
+
+``` ruby 
   >ruby -v 
   
   ruby 1.9.3p551 (2014-11-13) [i386-mingw32]
   
   查看到ruby版本信息表示安装成功
-
+```
 6.命令行检查rubygem是否安装
 
+```
   >gem -v
   
   1.8.29
   
+```
   查看到gem版本表示rubygem已经安装
-
 7.命令行更新rubygem
 
+```
   >gem update --system
   
   ......
   
   RubyGems system software updated
-  
+```
+
   几分钟后更新完成，更新过程没有出现error
   
 8.再次查看gem版本，显示更新后的版本
 
+```
   >gem -v
   
   2.4.8
-
+```
 ###Devkit安装
 
 1.双击DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe，
