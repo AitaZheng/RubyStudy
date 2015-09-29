@@ -1,7 +1,7 @@
 ---
 layout: detail
 title: Metaprogramming Ruby Study
-tags: [share,core]
+tags: [share ,core]
 category: share
 ---
 
