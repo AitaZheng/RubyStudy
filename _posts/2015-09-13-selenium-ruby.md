@@ -32,7 +32,9 @@
 
 3. 进入安装页面，
   
-  ![选择安装路径并勾选三个可选项](/pictures/ruby_install/Install.jpg),点击Install
+  ![选择安装路径并勾选三个可选项](/pictures/ruby_install/Install.jpg),
+  
+  点击Install
 
 4. 进入自动安装页面，大约1分钟，安装完成，自动跳转到
 
