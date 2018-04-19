@@ -11,7 +11,7 @@ category: core
 
 ## LoadRunner总体架构
 ### LoadRunner的总体架构图,从图中可以看出组件VUGen, Controller和Analysis之间的关系
-![loadrunner总体架构图](/Users/Aita/Documents/loadrunner总体架构图.jpg "loadrunner总体架构图")
+![loadrunner总体架构图](/pictures/LoadRunner/loadrunner总体架构图.jpg "loadrunner总体架构图")
 
 
 ### LoadRunner主要组成部分
@@ -33,7 +33,7 @@ Analysis是一个数据分析工具，对测试过程中收集到的各种性能
 
 ## LoadRunner工作原理
 ### Loadrunner工作原理，从图中可以看出如何利用LoadRunner进行一次典型的系统性能测试
-![LoadRunnner工作原理图](/Users/Aita/Documents/loadrunner工作原理图.jpg "loadrunner工作原理图")
+![LoadRunnner工作原理图](/pictures/LoadRunner/loadrunner工作原理图.jpg "loadrunner工作原理图")
 
 ### LoadRunner测试流程
 1. 用户确定进行测试的业务或者交易,录制并生成脚本
@@ -45,6 +45,6 @@ Analysis是一个数据分析工具，对测试过程中收集到的各种性能
 7. 对系统进行调优,重复进行压力测试,确定性能是否有所提高
 
 ###  LoadRunner的内部流程图，从图中可以看出LoadRunner内部各个组件之间如何进行交互,数据流和文件流之间如何进行.
-![loadrunner内部流程图](/Users/Aita/Documents/loadrunner内部流程图.jpg "loadrunner内部流程图")
+![loadrunner内部流程图](/pictures/LoadRunner/loadrunner内部流程图.jpg "loadrunner内部流程图")
 
  
