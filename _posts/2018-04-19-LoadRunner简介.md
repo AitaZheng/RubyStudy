@@ -1,7 +1,7 @@
 ---
 layout: detail
 title: LoadRunner简介
-descritption: 总体架构及工作原理
+description: 总体架构及工作原理
 tags: core
 category: core
 ---
